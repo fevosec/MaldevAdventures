@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DirtyVanity/DirtyVanity.vcxproj" Id="ae1e6f20-9e1d-44c2-8022-3517c08d2ce5" />
+</Solution>
